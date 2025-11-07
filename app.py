@@ -102,4 +102,8 @@ with st.form("form_agente"):
 
 # Exibir data e rodapé
 st.markdown("---")
+<<<<<<< HEAD
 st.caption(f"🕊️ Atualizado em {datetime.now().strftime('%d/%m/%Y %H:%M')} — Desenvolvido com amor e propósito 💛")
+=======
+st.caption(f"🕊️ Atualizado em {datetime.now().strftime('%d/%m/%Y %H:%M')} — Desenvolvido com amor e propósito 💛")
+>>>>>>> 7923caceb2ab260ccbfc297310e6347b77e49812
