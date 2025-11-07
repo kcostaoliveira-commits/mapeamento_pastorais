@@ -1,7 +1,7 @@
 echo "# 🕊️ Mapeamento de Pastorais
 
 ## 📘 Sobre o projeto
-Este projeto foi desenvolvido para auxiliar no **mapeamento das pastorais** de uma comunidade.  
+Este projeto foi desenvolvido para auxiliar no **mapeamento dos agentes pastorais** da Igreja Nossa Senhora do Perpétuo Socorro.  
 A aplicação foi construída em **Python**, proporcionando uma interface simples e intuitiva para cadastrar, visualizar e gerenciar informações.
 
 ---
