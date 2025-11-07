@@ -1,6 +1,11 @@
 import streamlit as st
-import pandas as pd
-from datetime import datetime
+
+st.title("🎉 Bem-vinda ao Mapeamento de Pastorais!")
+st.write("Olha só que fofura... 🎈✨")
+
+# Solta balões animados na tela!
+st.balloons()
+
 
 # Configurações da página
 st.set_page_config(page_title="Mapeamento das Pastorais", page_icon="⛪", layout="wide")
