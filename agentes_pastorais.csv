@@ -1,0 +1,39 @@
+ID;nome;Função/Cargo;Pastoral/Grupo;Idade;ano_de_entrada;tempo_de_serviço;endereco;contato;e-mail;observações
+001;Aene Silva;Coordenadora;Catequese;49;2014;11;R. Paulo Sarmento, Cj. Amazonino Mendes 2;;;
+002;Terezinha Aguiar;Ministra da Palavra e Tesoureira da Comunidade;Ministros;65;2016;9;Conjunto Vila Nova;;;Ativa
+003;Maria Auxiliadora Oliveira Brasil;Coordenadora Administrativa;Pastoral da Catequese;59;1999;26;Residencial Viver Melhor II;;;Ativa
+004;Nelson Castro Júnior;Coordenador do Dízimo;Pastoral do Dízimo e Liturgia;34;2006;19;;;;
+005;Eloadir Afonso Reis Brasil;Ministro da Palavra e Eucaristia / Catequista;Ministros;60;2010;15;Conjunto Vila Nova;;;
+006;Ana Maria Ferreira da Silva;;Pastoral da Catequese;49;2023;2;Rua Paulo Sarmento, nº 51 – Novo Aleixo;;;
+007;Taissa Mendes;Coordenadora dos coroinhas;Coroinhas;17;2025;0;R. Eneida de Moraes - Cj. Amazonino Mendes II.;;;
+008;Dalva Nascimento dos Santos;;Pastoral da Pessoa Idosa;56;2017;8;Rua Araújo Lima, nº 185 – Novo Aleixo;;;"Pastora; agente idosa; ativa na comunidade"
+009;Doralice Vasques;"Leiturista; participante das novenas e terço mariano";Pastoral da Pessoa Idosa (PPI);69;;;;;;Participa ativamente das novenas, terço mariano e liturgia
+010;Lucas Gabriel Fernandes da Silva;;Canto e Liturgia;21;2025;;Rua Joaquim Martins Santana 182;;;
+011;Andreia de Souza Brasil;;Liturgia / Novena;46;;20;Rua José da Costa Tapajós, nº 8;;;
+012;Maria Jocilene Pereira Soares;;Pastoral da Pessoa Idosa (PPI);40;;4;Rua Indiana, nº 74 – Novo Aleixo;;;
+013;Terezinha de Jesus Aguiar Soares;Tesoureira da Comunidade / Ministra da Eucaristia;;67;;6;Trav. Antônio de Alcântara Machado, nº 10 – Conj. Vila Nova;(92) 99995-7091;;"Sem pastoral específica no momento; caminhada ativa na comunidade"
+014;Manuel Ferreira Rego;;Pastoral da Pessoa Idosa;60;;5;Rua Araújo Lima, nº 185 – Novo Aleixo;;;
+015;Maria Jacenira Sousa Lopes;Ministra;Pastoral da Catequese;58;;7;Rua Francisco Galvão, nº 257;;;
+016;Aluísio Pereira Brasil Filho;Músico / Integrante do Ministério de Música;Liturgia / Ministério de Música;62;;8;Rua 10, Bloco 13 – Residencial Viver Melhor II;;;
+017;Miguel Arcanjo Brasil de Lima;;Liturgia;19;;3;Rua José da Costa Tapajós, nº 8;;;
+018;Marlene de Paula Videira;;Pastoral do Dízimo / Perpétuo Socorro;63;;3;Rua Juvenal Tavares, nº 322;;;
+019;Karina;;Liturgia;51;;;R. Ibicare, 2236 - Novo Aleixo;;;
+020;Paola;;Coroinhas;15;;;R. Ibicare, 2236 - Novo Aleixo;;;
+021;Anna Paula Gomes de Souza;;Pastoral do Batismo;47;;2;Rua Oséas Antunes, nº 133 – Conjunto Amazonino Mendes II;;;
+022;Nelson de Castro;;Dízimo / Liturgia / Batismo;37;;;Rua Paulo Sarmento, nº 45 – Conjunto Amazonino Mendes II;;;"Atua em múltiplas pastorais; agente ativo da comunidade"
+023;Laura Maria Brasil de Souza;Coroinha;Catequese / Coroinhas;14;;10;Bloco 13 – Residencial Viver Melhor II, Cidade de Deus;;;"Entrou na catequese aos 4 anos; 1 ano como coroinha"
+024;Isaac Alencar Viana de Morais;;Pastoral da Pessoa Idosa (PPI);26;;1;Rua Rodolfo Garcia – Cidade de Deus;;;
+025;Glaciliete Menezes da Rocha;;Liturgia / Catequese / Canto / Dízimo;49;2018;7;;;;Atua em múltiplas pastorais desde 2018
+026;Álvaro Rocha Morais dos Santos;Coroinha;Liturgia / Coroinhas / Canto;13;2018;7;Residencial Viver Melhor II, Bloco 16, Apto 405 – Cidade de Deus;;;
+027;Sílvia Higino;;Liturgia / Catequese / Batismo;49;2010;15;Rua Afrânio Coutinho, Conjunto Amazonino Mendes II;;;
+028;Kaylla Christine Magalhães Lopes;Coroinha;Coroinhas;15;;3;Rua Francisco Galvão, nº 257;;;
+029;Maura Bezerra;;Pastoral da Catequese;53;;;Rua 1, Casa 15 – Vila Nova;;;Iniciou recentemente na pastoral
+030;Felipe Aguiar de Freitas;Coroinha;Coroinhas;17;;3;Rua 19, Casa 10 – Conjunto Vila Nova, Cidade de Deus;;;
+031;Ivanice Castro;Coordenadora da Catequese;Pastoral da Catequese / Liturgia;63;1999;26;Rua Paulo Sarmento – Conjunto Amazonino Mendes II;;;Coordenadora da catequese desde 1999
+032;Edielson Pinho;Coordenador do Batismo;Pastoral do Batismo / Liturgia;48;;23;Gustavo Nascimento;;;
+033;Elizângela Cardoso;Agente Pastoral;Ministros / Batismo;50;;23;Rua Abguar Bastos – Novo Aleixo;;;
+034;Eloína Pantoja;Catequista;Pastoral da Catequese;62;1999;26;Rua Afrânio Coutinho – Novo Aleixo;;;
+035;Ana Cláudia Brasil;Agente Pastoral;Liturgia;54;;24;Rua 2, Casa 8 – Vila Nova;;;
+036;Irecê Fernandes;Agente do Dízimo;Pastoral do Dízimo;64;1999;26;Rua Afrânio Coutinho – Novo Aleixo;;;
+037;Fernanda Corrêa Torres de Morais;;Pastoral da Catequese;41;;2;Rua Afrânio Coutinho, nº 93;;;
+038;Maria Jacy Gomes Ferreira;;Pastoral do Batismo / Dízimo;81;2010;15;Rua Oséas Antunes, nº 133 – Conjunto Amazonino Mendes II;;;"Ativa na comunidade; idosa; atua em duas pastorais"
